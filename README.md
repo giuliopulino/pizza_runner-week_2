@@ -1,4 +1,7 @@
 # pizza_runner-week_2
+
+https://8weeksqlchallenge.com/case-study-2/
+
 CASE STUDY
 Introduction
 Did you know that over 115 million kilograms of pizza is consumed daily worldwide??? (Well according to Wikipedia anyway…)
